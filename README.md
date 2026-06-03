@@ -35,14 +35,23 @@ Enter a number: 5
 
 Multiplication Table for 5
 5 x 1 = 5
+
 5 x 2 = 10
+
 5 x 3 = 15
+
 5 x 4 = 20
+
 5 x 5 = 25
+
 5 x 6 = 30
+
 5 x 7 = 35
+
 5 x 8 = 40
+
 5 x 9 = 45
+
 5 x 10 = 50
 
 ## 3. Free Shipping Eligibility Check
@@ -62,10 +71,15 @@ This program tracks attendance. The user is prompted to indicate if a student is
 
 ### Example Output
 Is Adela present? (y/n): y
+
 Is Jade present? (y/n): y
+
 Is Perrie present? (y/n): n
+
 Is Leigh-Anne present? (y/n): y
+
 No. of Students Present:  3
+
 No. of Students Absent:  1
 
 ## 5. Class Marks Average
